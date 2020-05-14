@@ -1,0 +1,77 @@
+{
+    "food" : {
+      "451224" : [
+        {
+          "address" : {
+            "city" : "Delhi",
+            "pin_code" : "451224",
+            "street" : "Patel Chowk"
+          },
+          "user_name" : "Rishi Chawla",
+          "food_item" : "Chapati"
+        },
+        {
+          "address" : {
+            "city" : "Delhi",
+            "pin_code" : "451224",
+            "street" : "Patel Chowk"
+          },
+          "user_name" : "Bharat",
+          "food_item" : "Aalo Parathas"
+        },
+        {
+          "address" : {
+            "city" : "Delhi",
+            "pin_code" : "451224",
+            "street" : "Rajiv Chowk"
+          },
+          "user_name" : "Arpit Agrawal",
+          "food_item" : "Vegetable"
+        }
+      ],
+      "pin_code" : [ {
+        "address" : {
+          "city" : "sdf",
+          "pin_code" : "sdftg",
+          "street" : "sdfg"
+        },
+        "food_item" : "name",
+        "user_name" : "sdfg"
+      } ]
+    },
+    "ngo" : [ {
+      "address" : {
+        "city" : "Delhi",
+        "pin_code" : "451224",
+        "street" : "Rajiv Chowk"
+      },
+      "email" : "ngo@gmail.com",
+      "mobile" : "+917089183546",
+      "name" : "Muskan Dreams NGO",
+      "ngo_url" : "na",
+      "type" : "NGO",
+      "verified" : "1"
+    } ],
+    "user" : [ {
+      "address" : {
+        "city" : "Delhi",
+        "pin_code" : "451224",
+        "street" : "Rajiv Chowk"
+      },
+      "name" : "Arpit Agrawal",
+      "email" : "dfgsdrf",
+      "mobile" : "+918085052728"
+    },
+    {
+      "address" : {
+        "city" : "Delhi",
+        "pin_code" : "451224",
+        "street" : "Rajiv Chowk"
+      },
+      "name" : "Rishi Chawla",
+      "email" : "dfgsdrf",
+      "mobile" : "+918962479968"
+    }  
+    ]
+  }
+  

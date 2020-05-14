@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686648045663",
+    "firebase_url": "https://sharetofeed-32576.firebaseio.com",
+    "project_id": "sharetofeed-32576",
+    "storage_bucket": "sharetofeed-32576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686648045663:android:f46fef35483f5a62faebea",
+        "android_client_info": {
+          "package_name": "com.example.sharemymeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686648045663-l8pvutp989c57d5ka2a7j9gi0ujlckjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharemymeal",
+            "certificate_hash": "b95d12edccee55b92ded758673c01c23900f63a6"
+          }
+        },
+        {
+          "client_id": "686648045663-4k9sdr5npvntpqugit0ljrnp6ur88gnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvL3uK9oHha7VUmCK4S5s9116JhM4eGwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686648045663-4k9sdr5npvntpqugit0ljrnp6ur88gnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
