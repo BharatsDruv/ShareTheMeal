@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png alt="Logo" width="1080/50" height="1920/50">
+ <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png" alt="Logo" width="1080/50" height="1920/50">
 
 It is a cross platform mobile application build to bridge the gap between the providers who can donate/share their things with the NGOs or needy ones who can access those shared resources easily. 
 Need of the application:
@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 [Install flutter SDK](https://docs.flutter.dev/get-started/install/windows)
-  </br
+  </br>
 [Install Android SDK](https://developer.android.com/studio)
 
 ### Installation
