@@ -83,9 +83,9 @@ It is a cross platform mobile application build to bridge the gap between the pr
 Need of the application:
 
 Here's why:
-* More than 78 million peoples in india are poor who are unable to satify their basic needs of food, cloths and shelter on the other hand there are many peoples who have thesee resources in access who wants to donate but can't find a direct way to do so. 
+* More than 78 million peoples in India are poor who are unable to satisfy their basic needs of food, clothes and shelter on the other hand there are many peoples who have these resources access who wants to donate but can't find a direct way to do so.
 * According to the Food Waste Index Report 2021 published by the United Nations Environment Programme, 50 kg of food is thrown away per person every year in Indian homes, which can be used to feed any poor/needy person.
-* Our one initiative can change the lifes of many:smile:
+* Our one initiative can change the lives of many:smile:
 
 Of course, this application is not market ready or a product. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. 
 
@@ -137,16 +137,16 @@ To get a local copy up and running follow these simple steps.
 
 Providers View:
 - On the landing screen you need to register with your phone no. 
-- After entering the phone no. you will recieve an OTP to validate 
-- Then create your profile by filling your basic details
-- To list a food or any resources go to add item and fill the form
-- After submission your sharing will be available on the mail pallet for others to select.
-- If anyone select your sharing, you will get notified and your details will be shared with them.
+- After entering the phone no. you will receive an OTP to validate 
+- Then create your profile by filling in your basic details
+- To list food or any resources go to add an item and fill the form
+- After submission, your sharing will be available on the mail pallet for others to select.
+- If anyone selects your sharing, you will get notified and your details will be shared with them.
 
 NGO View
 - Register your NGO/Org with phone verification through OTP.
-- On landing page you will see listings of resources by the people who wants to share any resource.
-- Select any of the resource, you will get the details of provider.
+- On the landing page, you will see listings of resources by the people who want to share any resource.
+- Select any of the resources, you will get the details of the provider.
 - Map will get activated for distance and directions.
 
 
