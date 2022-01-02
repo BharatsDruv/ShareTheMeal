@@ -38,9 +38,6 @@
   <p align="center">
     A platform to connect providers and needy ones.
     <br />
-   
-    <br />
-    
     <a href="https://github.com/BharatsDruv/ShareTheMeal/issues">Report Bug</a>
     ·
     <a href="https://github.com/BharatsDruv/ShareTheMeal/issues">Request Feature</a>
@@ -80,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](flutter_03.png)
+ <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png alt="Logo" width="1080/50" height="1920/50">
 
 It is a cross platform mobile application build to bridge the gap between the providers who can donate/share their things with the NGOs or needy ones who can access those shared resources easily. 
 Need of the application:
@@ -109,11 +106,12 @@ This are the tools and plugins we've used to built this application
 ## Getting Started
 
 Instructions on setting up ShareTheMeal locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
 [Install flutter SDK](https://docs.flutter.dev/get-started/install/windows)
+  </br
 [Install Android SDK](https://developer.android.com/studio)
 
 ### Installation
@@ -121,7 +119,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get API Keys for Firebase & Azure 
 2. Clone the repo
    ```sh
-   gh repo clone BharatsDruv/ShareTheMeal
+   git clone BharatsDruv/ShareTheMeal
    ```
 3. Command to see connected emulators
    ```sh
@@ -137,7 +135,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Providers View:
+Providers View:
 - On the landing screen you need to register with your phone no. 
 - After entering the phone no. you will recieve an OTP to validate 
 - Then create your profile by filling your basic details
@@ -145,7 +143,7 @@ To get a local copy up and running follow these simple example steps.
 - After submission your sharing will be available on the mail pallet for others to select.
 - If anyone select your sharing, you will get notified and your details will be shared with them.
 
-* NGO View
+NGO View
 - Register your NGO/Org with phone verification through OTP.
 - On landing page you will see listings of resources by the people who wants to share any resource.
 - Select any of the resource, you will get the details of provider.
@@ -183,7 +181,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Bharat Shrivastava - [@LinkedIn](https://www.linkedin.com/in/bharatshrivastava/) - bharatsdruv@example.com
+Bharat Shrivastava - [@LinkedIn](https://www.linkedin.com/in/bharatshrivastava/) - bharatsdruv@gmail.com
 
 Project Link: [https://github.com/BharatsDruv/ShareTheMeal](https://github.com/BharatsDruv/ShareTheMeal)
 
@@ -202,15 +200,15 @@ Project Link: [https://github.com/BharatsDruv/ShareTheMeal](https://github.com/B
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/BharatsDruv/ShareTheMeal.svg?style=for-the-badge
 [contributors-url]: https://github.com/BharatsDruv/ShareTheMeal/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/BharatsDruv/ShareTheMeal.svg?style=for-the-badge
 [forks-url]: hthttps://github.com/BharatsDruv/ShareTheMeal/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/BharatsDruv/ShareTheMeal.svg?style=for-the-badge
 [stars-url]: https://github.com/BharatsDruv/ShareTheMeal/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BharatsDruv/ShareTheMeal.svg?style=for-the-badge
 [issues-url]: https://github.com/BharatsDruv/ShareTheMeal/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/BharatsDruv/ShareTheMeal.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bharatshrivastava/
