@@ -77,11 +77,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <center>
- <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png" alt="Logo" width="216" height="384">
+ <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png" alt="Logo" width="324" height="576">
 </center>
-It is a cross platform mobile application build to bridge the gap between the providers who can donate/share their things with the NGOs or needy ones who can access those shared resources easily. 
-Need of the application:
-
+It is a cross-platform mobile application built to bridge the gap between the providers who can donate/share their things with the NGOs or needy ones who can access those shared resources easily. <br>
+Need of the application:<br>
 Here's why:
 * More than 78 million peoples in India are poor who are unable to satisfy their basic needs of food, clothes and shelter on the other hand there are many peoples who have these resources access who wants to donate but can't find a direct way to do so.
 * According to the Food Waste Index Report 2021 published by the United Nations Environment Programme, 50 kg of food is thrown away per person every year in Indian homes, which can be used to feed any poor/needy person.
@@ -136,10 +135,10 @@ To get a local copy up and running follow these simple steps.
 ## Usage
 
 Providers View:
-- On the landing screen you need to register with your phone no. 
-- After entering the phone no. you will receive an OTP to validate 
-- Then create your profile by filling in your basic details
-- To list food or any resources go to add an item and fill the form
+- On the landing screen, you need to register with your phone no. 
+- After entering the phone no. you will receive an OTP to validate. 
+- Then create your profile by filling in your basic details.
+- To list food or any resources, go to "Add an item" section and fill the form.
 - After submission, your sharing will be available on the mail pallet for others to select.
 - If anyone selects your sharing, you will get notified and your details will be shared with them.
 
@@ -154,7 +153,7 @@ NGO View
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/othneildrew/ShareTheMeal/issues) for a list of proposed features (and known issues).
 
 
 
@@ -174,7 +173,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
 
 
 
