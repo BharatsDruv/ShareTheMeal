@@ -76,9 +76,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
- <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png" alt="Logo" width="108.0" height="192.0">
-
+<center>
+ <img src="https://raw.githubusercontent.com/BharatsDruv/ShareTheMeal/master/flutter_03.png" alt="Logo" width="216" height="384">
+</center>
 It is a cross platform mobile application build to bridge the gap between the providers who can donate/share their things with the NGOs or needy ones who can access those shared resources easily. 
 Need of the application:
 
