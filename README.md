@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+
     <img src="https://i.morioh.com/2020/02/28/1195ab76f0b1.jpg" alt="Logo" width="80" height="80">
   </a>
 
