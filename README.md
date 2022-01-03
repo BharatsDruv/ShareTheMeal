@@ -31,7 +31,7 @@
 <p align="center">
 
     <img src="https://i.morioh.com/2020/02/28/1195ab76f0b1.jpg" alt="Logo" width="80" height="80">
-  </a>
+ 
 
   <h3 align="center">ShareTheMeal</h3>
 
